@@ -1,0 +1,19 @@
+{
+  "name": "pwd-manager",
+  "version": "1.0.0",
+  "description": "An application to store, manage, encrypt and retrieve all your passwords from",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsmaRahimAliJafri/pwd-manager.git"
+  },
+  "author": "Asma Rahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsmaRahimAliJafri/pwd-manager/issues"
+  },
+  "homepage": "https://github.com/AsmaRahimAliJafri/pwd-manager#readme"
+}
